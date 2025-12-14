@@ -1,4 +1,4 @@
-### Hi, I'm @nitipoomph 👋
+### Hi, I'm @nitipoomph-coder👋
 
 * 💡 I'm interested in **Software Development and Interaction Design**.
 * 💻 I'm currently developing a **full-stack Wedding Management System**.
