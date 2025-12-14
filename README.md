@@ -19,16 +19,15 @@
 ## 🔗 More
 
 <p align="left">
-    <a href="[]" target="_blank">
+    <a href="https://www.wongnai.com/articles/top-beauty-blogger" target="_blank">
         <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"/>
     </a>
-    <a href="[]" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <a href="https://github.com/nitipoomph-coder" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="[]" target="_blank">
+    <a href="https://marketplace.visualstudio.com/vscode" target="_blank">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
     </a>
-    <a href="[https://www.linkedin.com/in/nitipoom-phunphong-b96291284/]" rel="nofollow">
+    <a href="https://www.linkedin.com/in/nitipoom-phunphong-b96291284/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </p>
