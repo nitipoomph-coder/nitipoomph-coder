@@ -6,8 +6,6 @@
 * 🤝 I'm looking to collaborate on **open-source projects**.
 * 📧 How to reach me >> **nitipoom.ph@ku.th** 
 
----
-
 ## 🛠️ Languages and Tools
 
 | Tools/Languages | Icon Badges |
@@ -21,13 +19,13 @@
 ## 🔗 More
 
 <p align="left">
-    <a href="[ลิงก์ไปยังบล็อกเกอร์ของคุณ]" target="_blank">
+    <a href="[]" target="_blank">
         <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"/>
     </a>
-    <a href="[ลิงก์ไปยัง GitHub ของคุณ]" target="_blank">
+    <a href="[]" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="[ลิงก์ไปยัง Visual Studio Code marketplace/โปรไฟล์ของคุณ]" target="_blank">
+    <a href="[]" target="_blank">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
     </a>
     <a href="[https://www.linkedin.com/in/nitipoom-phunphong-b96291284/]" target="_blank">
